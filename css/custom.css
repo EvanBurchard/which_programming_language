@@ -1,0 +1,30 @@
+#techboss-logo{
+  color:#154F97;
+}
+#techboss-logo:hover{
+  color:#13DAEC;
+}
+#techboss-logo img{
+  position:relative;
+  bottom:-2px;
+  left:2px;
+}
+#techboss-logo span{
+letter-spacing: 0.02em;
+}
+
+#header{
+  font-size:10px;padding:2px;
+}
+#header .img{
+  text-align:right !important;
+}
+#start-over{
+  float:right;
+  padding-right:5px;
+  padding-top:3px;
+  display:none;
+}
+#start-over.visible{
+  display:inline;
+}
