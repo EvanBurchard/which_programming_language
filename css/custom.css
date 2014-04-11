@@ -7,22 +7,18 @@
 #techboss-logo img{
   position:relative;
   bottom:-2px;
-  left:2px;
+  left:15px;
 }
 #techboss-logo span{
-letter-spacing: 0.02em;
+  letter-spacing: 0.02em;
 }
-
 #header{
-  font-size:10px;padding:2px;
-}
-#header .img{
-  text-align:right !important;
+  font-size:40px;padding:2px;
 }
 #start-over{
   float:right;
-  padding-right:5px;
-  padding-top:3px;
+  padding-right:15px;
+  padding-top:15px;
   display:none;
 }
 #start-over.visible{
